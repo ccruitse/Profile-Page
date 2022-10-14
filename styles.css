@@ -1,0 +1,115 @@
+/* Heading */
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    background-image: linear-gradient(
+        115deg,
+        rgba(5, 60, 10, 0.8),
+        rgba(50, 70, 120, 0.7)
+      ),
+       url(https://2.bp.blogspot.com/-C080GCgRGtg/XWgsGdr_L3I/AAAAAAAAMTQ/wrZJVOIg7H0XzCDGK6JQoyahMqvdDIFaACLcBGAs/w919/x1-wooseok-kpop-uhdpaper.com-4K-3.911-wp.thumbnail.jpg);
+  }
+  h1{
+    font-size: 50px;
+    font-family: Segoe UI;
+    text-align: center;
+    color: #ffffff;
+    margin: 0;
+    }
+  p{
+    font-size: 20px;
+    text-align: center;
+    font-family: Segoe UI;
+    color: #ffffff;
+    
+  }
+  #img-caption {
+    margin: 15px 0 5px 0;
+    font-size: 20px;
+    font-family: Roboto;
+    color: #ffffff;
+  }
+  h3, h2{
+    text-align: center;
+    font-family: Roboto;
+    color: #ffffff;
+  }
+  #image{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+  }
+  .img-div{
+    margin: 0;
+    padding:10px;
+    background: #ffffff;
+  }
+  ul {
+    max-width: 400px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+    color: #ffffff;
+  }
+  a {
+    color: yellow;
+  }
+  li {
+    margin: 16 0;
+  }
+  #quotes{
+    font-style: italic;
+    font-size: 20px;
+    font-family: Segoe UI;
+    max-width: 1700px;
+    margin: 0 auto 50px auto;
+    text-align: center;
+    color: #ffffff;
+  }
+  #message-link{
+    max-width: 1700px;
+    font-family: Segoe UI;
+    margin: 0 auto 50px auto;
+    text-align: center;
+    color: #ffffff;
+  }
+  #img-div {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 10px 10px;
+  }
+  #image1, #image2, #image3 {
+    width: 100%;
+    max-width: 350px;
+    height: 350px;
+    object-fit: cover;
+    border-radius: 20px;
+  }
+  #album-grid {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 10px 10px;
+  }
+  .album-image {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 0px;
+  }
+  
+  
