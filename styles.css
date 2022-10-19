@@ -9,7 +9,11 @@ body {
         rgba(50, 70, 120, 0.7)
       ),
        url(https://2.bp.blogspot.com/-C080GCgRGtg/XWgsGdr_L3I/AAAAAAAAMTQ/wrZJVOIg7H0XzCDGK6JQoyahMqvdDIFaACLcBGAs/w919/x1-wooseok-kpop-uhdpaper.com-4K-3.911-wp.thumbnail.jpg);
-  }
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+      }
   h1{
     font-size: 50px;
     font-family: Segoe UI;
